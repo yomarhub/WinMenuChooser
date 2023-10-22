@@ -11,7 +11,6 @@ Once a selection is made, the program will perform the specified action on the s
  - Start a Command Prompt
 
 ## Installation
- 0. Ask the author to you as a collaborator
  1. First clone the repository using git :
     ```
     git clone https://ytrack.learn.ynov.com/git/yomar/WinMenuChooser.git
