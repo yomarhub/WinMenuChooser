@@ -23,4 +23,4 @@ Once a selection is made, the program will perform the specified action on the s
     ```
 
 ## Author
-[@yomar](https://ytrack.learn.ynov.com/git/yomar)
+[@yomarhub](https://github.com/yomarhub)
